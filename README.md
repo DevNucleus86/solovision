@@ -39,7 +39,7 @@ pip install solovision
 Install from source:
 
 ```bash
-git clone https://github.com/AIEngineersDev/solovision.git
+git clone https://github.com/DevNuclues86/solovision.git
 cd solovision
 pip install .
 ```
